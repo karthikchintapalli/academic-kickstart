@@ -9,23 +9,22 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "CS Undergrad & NLP Researcher"
+role = "SDE"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "IIIT Hyderabad", url = "" } ]
+organizations = [ { name = "Amazon", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Final year CS undergrad passionate about NLP and ML."
+bio = "SDE at Amazon"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "karthik.chintapalli@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Natural Language Processing",
-  "Machine Learning",
-  "Generative Models"
+  "Generative Models",
+  "Football Analytics"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -72,6 +71,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an Undergraduate NLP Researcher at the Language Technologies Research Center, IIIT Hyderabad. Currently, I am working on adversarial text generation, but I'm also generally interested in generative models and work on side projects on the same. I also have experience building commercial NLP tools using ML/DL.
-
-Outside CS and ML, I love football, music, art and [speedcubing](https://www.worldcubeassociation.org/persons/2011CHIN01).
+I am an SDE at Amazon Alexa and I like working on DL theory and generative models during my own time. As a massive football (soccer) fan, I have recently started exploring the world of football data analytics to evaluate player perfomances and discover tactical trends. 
